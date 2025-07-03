@@ -20,6 +20,7 @@ I'm **Tomiris**, an engineering student at the University of Applied Sciences of
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
 
 🌐 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomiris-amangeldy-79aa832b4/)]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/tomiris-amangeldy-79aa832b4/)]
 
 ✨ *Feel free to explore my repositories and reach out if you’d like to collaborate or just say hello!*
