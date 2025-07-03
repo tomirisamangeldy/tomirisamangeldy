@@ -2,12 +2,14 @@
 
 I'm **Tomiris**, an engineering student at the University of Applied Sciences of Upper Austria, Linz.
 
-🎓 **About Me**
-- 💻 Passionate about web development and visually appealing UI
-- 🌱 Constantly learning and exploring new tools and best practices
-- 🤝 Open to collaborations, and full-time or part-time work opportunities
+🤠 **About Me**
+
+- Passionate about web development and visually appealing UI
+- Constantly learning and exploring new tools and best practices
+- Open to collaborations, and full-time or part-time work opportunities
 
 🚀 **Skills**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
