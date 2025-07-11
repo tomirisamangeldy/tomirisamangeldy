@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm **Tomiris**, an engineering student at the University of Applied Sciences of Upper Austria, Linz.
+I'm **Tomiris**, an electrical engineering student at the University of Applied Sciences of Upper Austria.
 
 🤠 **About Me**
 
@@ -17,6 +17,7 @@ I'm **Tomiris**, an engineering student at the University of Applied Sciences of
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
 
 🌐 **Connect with Me**
