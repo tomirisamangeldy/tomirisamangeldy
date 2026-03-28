@@ -8,7 +8,7 @@ I'm **Tomiris**, an electrical engineering student at the University of Applied 
 - Constantly learning and exploring new tools and best practices
 - Open to collaborations, and full-time or part-time work opportunities
 
-🚀 **Skills**
+🚀 **Software Development Skills**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,6 +19,10 @@ I'm **Tomiris**, an electrical engineering student at the University of Applied 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
+
+😵‍💫**Currently Improving**
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
 🌐 **Connect with Me**
 
