@@ -21,8 +21,9 @@ I'm **Tomiris**, an electrical engineering student at the University of Applied 
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
 
 😵‍💫**Currently Improving**
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
 🌐 **Connect with Me**
 
