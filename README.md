@@ -4,7 +4,7 @@ I'm **Tomiris**, an electrical engineering student at the University of Applied 
 
 🤠 **About Me**
 
-- Passionate about web development and visually appealing UI
+- Passionate about software development, currently honing my backend skills
 - Constantly learning and exploring new tools and best practices
 - Open to collaborations, and full-time or part-time work opportunities
 
